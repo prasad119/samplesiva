@@ -16,6 +16,7 @@ public class ForLoop {
 		  System.out.println("");
 		  System.out.println("Value Of Variable k is " +k);
 		  System.out.println("Hi");
+		  System.out.println("Hi");
 
 		 }
 
